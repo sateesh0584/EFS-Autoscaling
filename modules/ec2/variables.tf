@@ -1,0 +1,10 @@
+#variable "ec2_count" {}
+variable "ami_id" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "key_name" {}
+variable "vpc_security_group_ids" {}
+variable "alb-sg-name" {}
+variable "public-subnet-name1" {}
+variable "public-subnet-name2" {}
+variable "file_system_dns_name" {}
